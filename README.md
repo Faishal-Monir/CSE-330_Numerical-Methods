@@ -1,4 +1,4 @@
-<b><h1>Algos: Numerical Methods! </h1></b>
+<b><h1>CSE-330: Numerical Methods! </h1></b>
 <i><h4>Approximating solutions for a better future!</h4></i><hr><br>
 <b>
 ```
